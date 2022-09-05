@@ -1,11 +1,3 @@
-#!/usr/bin/env python3
-"""
-Duino-Coin Official PC Miner 3.0 © MIT licensed
-https://duinocoin.com
-https://github.com/revoxhere/duino-coin
-Duino-Coin Team & Community 2019-2021
-"""
-
 from threading import Semaphore
 from time import time, sleep, strptime, ctime
 from hashlib import sha1
